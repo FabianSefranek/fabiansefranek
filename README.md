@@ -7,6 +7,7 @@
 <img src="https://raw.githubusercontent.com/FabianSefranek/fabiansefranek/main/html5.svg" height="50"/>
 <img src="https://raw.githubusercontent.com/FabianSefranek/fabiansefranek/main/css3.svg" height="50"/>
 <img src="https://raw.githubusercontent.com/FabianSefranek/fabiansefranek/main/javascript.svg" height="50"/>
+<img src="https://raw.githubusercontent.com/FabianSefranek/fabiansefranek/main/java.svg" height="50"/>
 <img src="https://raw.githubusercontent.com/FabianSefranek/fabiansefranek/main/git.svg" height="50"/>
 </p>
 
