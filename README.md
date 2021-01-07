@@ -10,6 +10,3 @@
 <img src="https://raw.githubusercontent.com/FabianSefranek/fabiansefranek/main/java.svg" height="50"/>
 <img src="https://raw.githubusercontent.com/FabianSefranek/fabiansefranek/main/git.svg" height="50"/>
 </p>
-
-#### 📊 This week I spent my time on
-![Fabians's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabiansefranek&hide_title=true&hide_border=true&langs_count=5)
