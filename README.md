@@ -1,6 +1,5 @@
 ### Fabian Sefranek - [@fabiansefranek](https://github.com/fabiansefranek)
 👋 Hey, I'm a student living in Vienna, Austria ( 🇦🇹 )
-<br>🕵️ Currently working on [metrics.to](https://metrics.to) (Privacy Focused Web Analytics)
 #### 🔧 Tools & Languages
 <p float="left">
 <img src="https://raw.githubusercontent.com/FabianSefranek/fabiansefranek/main/python.svg" height="50"/>
